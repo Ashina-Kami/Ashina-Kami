@@ -1,7 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
 ## About Me
+I'm a selft-taugth programmer passionnate about security and low-level programming.
 
+I have previously studied biotechnologies for 2 years where i worked with different type of bacteria and viruses. 
+I also worked with animals (non-mammals are underestiamted), manipulating dna and more.
+
+Programming 💻 >= Biotechnologies 🫀
+
+
+## Interest
+* Encryption 🔐
+* Reverse Engineering 🔍
+* Game Mods 🎮
+
+## Languages
+* Python 
+* C / C++ 
+* C#
 <!--
 **Ashina-Kami/Ashina-Kami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

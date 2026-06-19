@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I'm a selft-taught programmer passionate about security and low-level programming.
+I'm a self-taught programmer passionate about security and low-level programming.
 
 I have previously studied biotechnologies for 2 years where i worked with different type of bacteria and viruses. 
 I also worked with animals (non-mammals are underestimated), manipulating dna and more.

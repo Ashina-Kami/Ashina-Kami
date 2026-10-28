@@ -3,7 +3,7 @@
 ## About Me
 I'm a self-taught programmer passionate about security and low-level programming.
 
-I have previously studied biotechnologies for 2 years where i worked with different type of bacteria and viruses. 
+I have previously studied biotechnologies for 2 years where I worked with different type of bacteria and viruses. 
 I also worked with animals (non-mammals are underestimated), manipulating DNA and more.
 
 Programming 💻 >= Biotechnologies 🫀
@@ -14,6 +14,7 @@ Programming 💻 >= Biotechnologies 🫀
 * Reverse Engineering 🔍
 * Game Mods 🎮
 * OS Development 🖥️
+* CyberSecurity ⚠️
 ## Languages
 * Python 
 * C / C++ 

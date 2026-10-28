@@ -3,24 +3,24 @@
 ## About Me
 I'm a self-taught programmer passionate about security and low-level programming.
 
-I have previously studied biotechnologies for 2 years where I worked with different type of bacteria and viruses. 
+I have previously studied biotechnologies for 2 years where I worked with different types of bacteria and viruses. 
 I also worked with animals (non-mammals are underestimated), manipulating DNA and more.
 
 Programming 💻 >= Biotechnologies 🫀
 
 
-## Interest
+## Interests
 * Encryption 🔐
 * Reverse Engineering 🔍
 * Game Mods 🎮
 * OS Development 🖥️
-* CyberSecurity ⚠️
+* Cybersecurity ⚠️
 ## Languages
 * Python 
 * C / C++ 
 * C#
 
-I dont like Javascript
+I don't like Javascript
 <!--
 **Ashina-Kami/Ashina-Kami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -13,7 +13,7 @@ Programming 💻 >= Biotechnologies 🫀
 * Encryption 🔐
 * Reverse Engineering 🔍
 * Game Mods 🎮
-
+* OS Development 🖥️
 ## Languages
 * Python 
 * C / C++ 
